@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip":  capTainCANADA233.aternos.me:50098,
+    "port": 50098,
     "version": "",
     "try-creative": false
   },
